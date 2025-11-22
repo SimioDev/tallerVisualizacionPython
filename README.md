@@ -5,10 +5,12 @@ Entrega del taller de visualización de datos para la asignatura Diseño Funcion
 ## Archivos incluidos
 
 `dashboard_simple.py`: script principal que lee el archivo CSV, genera las cuatro gráficas requeridas y guarda el dashboard como imagen.
+
 `sales_data_2024.csv`: archivo con los 50 registros reales de ventas utilizados (fecha, producto, categoría, región, monto, cantidad, etc.).
+
 `mi_dashboard_ventas.png`: imagen final del dashboard (se genera automáticamente al ejecutar el script).
 
-##Cómo ejecutar
+## Cómo ejecutar
 
 Primero se instalan las dependencias necesarias (solo la primera vez):
 
